@@ -1,0 +1,24 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": ["source.fixAll.eslint"],
+  "prettier.printWidth": 200,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "vue",
+    "ts"
+  ],
+  "gitConfigUser.selectedProfile": "gitEcs",
+  "files.exclude": {
+    "node_modules": true,
+    "dist": false
+  },
+  "vue3snippets.enable-compile-vue-file-on-did-save-code": false,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "[xml]": {
+    "editor.defaultFormatter": "mikeburgh.xml-format"
+  }
+}
